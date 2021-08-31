@@ -1,12 +1,12 @@
-	
+
 /*
 ================================================
-21. Media Quries 
+21. Media Quries
 ================================================
 */
 @media (min-width: 992px) and (max-width: 1200px) {
 .footer-main {
-    padding: 330px 20px 0px 20px;
+    padding: 80px 20px 0px 20px;
 }
 .newsletter-form .btn.btn-primary {
     right: 131px;
@@ -68,7 +68,7 @@ padding-top:60px;
 font-size: 32px;
 }
 .footer-main {
-    padding: 330px 20px 0px 20px;
+    padding: 80px 20px 0px 20px;
 }
 
 .footer-main .footer-widget.pull{
@@ -194,7 +194,7 @@ font-size: 24px;
     line-height: 25px;
 }
 .footer-main{
-padding:330px 20px 0px 20px;
+    padding:80px 20px 0px 20px;
 }
 .footer-main .footer-widget.pull{
 float:left;
@@ -226,13 +226,13 @@ margin-bottom:25px;
 .footer-top .footer-box {
     padding: 10px 30px 10px;
 	}
-}	
+}
 @media (min-width: 266px) and (max-width: 330px) {
 .price_box .price_footer a {
     padding: 6px 36px;
 	}
 .consulting-section .title-column .text {
-   
+
     font-size: 25px;
 }
 .consulting-section .form-column h1 {
@@ -245,7 +245,7 @@ line-height:40px;
 margin-bottom:25px;
 }
 .footer-main{
-padding:360px 20px 0px 20px;
+padding:80px 20px 0px 20px;
 }
 .blog-social li {
     margin-bottom: 30px;
