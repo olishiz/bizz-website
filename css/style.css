@@ -20,14 +20,14 @@
 9. We Are Best
 10. FAQ
 11. Counter
-12. Portfolio 
+12. Portfolio
 13. Testimonials
 14. Team
 15. Pricing
 16. Blog
 17. Contact Us
 18. Footer
- 
+
 
 /*
 ================================================
@@ -83,11 +83,11 @@ line-height:30px;
 ul,li{
 	list-style:none;
 	padding:0px;
-	margin:0px;	
+	margin:0px;
 }
 a, a:hover, a:active, a:focus {
 	outline: none;
-	border: none;	
+	border: none;
 	text-decoration:none;
 }
 a {
@@ -1083,7 +1083,7 @@ position: fixed;
 }
 .menu-bg .logo a, .menu-bg .navbar-default .navbar-nav li a:hover {
 	 transition: all 0.3s ease-out;
-	
+
 }
 .menu-bg .navbar-default .nav .drop-down li:hover a{
 color: #fff;
@@ -1330,7 +1330,7 @@ margin-right:0px;
 ================================================
 */
 .about_slider-area {
-    background-image:url(../images/bg-01.jpg);
+    background-image:url(../images/office.png);
     background-position: center;
     background-color: #fff;
     background-repeat: no-repeat;
@@ -1648,7 +1648,7 @@ margin-right:0px;
     height: 100%;
     color: #9c9c9c;
     font-size: 20px;
-    text-align: center; 
+    text-align: center;
 }
 .accordion .acc-btn.active .left-icon {
     color: #fff;
@@ -1656,7 +1656,7 @@ margin-right:0px;
 
 .accordion .left-icon span {
     position: relative;
-    top: 18px;  
+    top: 18px;
 }
 
 .accordion .acc-btn {
@@ -1670,7 +1670,7 @@ margin-right:0px;
 }
 .accordion .acc-btn p {
     color: #222;
-   
+
 }
 .accordion .acc-btn.active p {
     color: #c33764;
@@ -1780,7 +1780,7 @@ margin-right:0px;
 
 
 
-.about-faq .default-form input[type="text"], .about-faq .default-form input[type="email"], .about-faq .default-form input[type="password"], 
+.about-faq .default-form input[type="text"], .about-faq .default-form input[type="email"], .about-faq .default-form input[type="password"],
 .about-faq .default-form input[type="number"], .about-faq .default-form select, .about-faq .default-form textarea {
     border-color: #eaeaea;
 }
@@ -2614,7 +2614,7 @@ color:#c33764;
 	line-height:30px;
 	height:50px;
 	font-size:14px;
-	padding:10px 20px;	
+	padding:10px 20px;
 	background:#ffffff;
 	color:#333333;
 	transition:all 500ms ease;
@@ -2626,17 +2626,17 @@ color:#c33764;
 .consult-form input:focus,
 .consult-form select:focus,
 .consult-form textarea:focus{
-	
+
 }
 
 .consult-form textarea{
 	height:150px;
 	resize:none;
-	padding:10px 20px;	
+	padding:10px 20px;
 }
 
 .consult-form button:hover{
-	
+
 }
 /*Title*/
 .title .title-box .separator {
@@ -3138,12 +3138,12 @@ display:block;
     font-weight: 600;
 }
 .blog-social li {
-  display: inline-block; 
+  display: inline-block;
   }
   .blog-social li a {
   border:2px solid #f8f8f8;
     padding: 10px 13px;
-    color: #303030; 
+    color: #303030;
 	}
   .blog-social li:hover a {
     background: #c33764;
@@ -3324,7 +3324,7 @@ color:#c33764;
 
 .popular-post .item .post-thumb img{
     width:100%;
-    display:block;  
+    display:block;
 }
 
 
