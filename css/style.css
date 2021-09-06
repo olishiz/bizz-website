@@ -1333,7 +1333,7 @@ margin-right:0px;
     background-image:url(../images/office.png);
     background-position: center;
     background-color: #fff;
-    background-repeat: no-repeat;
+    /*background-repeat: no-repeat;*/
     width: 100%;
     height: 316px;
     position: relative;
