@@ -2145,18 +2145,18 @@ color:#c33764;
   position: relative;
   overflow: hidden;
 }
-.team_box .team_img:before {
-  -webkit-transition: all 400ms ease-in-out;
-  transition: all 400ms ease-in-out;
-  opacity: 0;
-  content: '';
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  background-color: rgba(255, 255, 255, 0.8);
-}
+/*.team_box .team_img:before {*/
+/*  -webkit-transition: all 400ms ease-in-out;*/
+/*  transition: all 400ms ease-in-out;*/
+/*  opacity: 0;*/
+/*  content: '';*/
+/*  width: 100%;*/
+/*  height: 100%;*/
+/*  position: absolute;*/
+/*  top: 0;*/
+/*  left: 0;*/
+/*  background-color: rgba(255, 255, 255, 0.8);*/
+/*}*/
 .team_box .team_img ul.team_social {
   opacity: 0;
   position: absolute;
@@ -2203,22 +2203,22 @@ color:#c33764;
 .team_box p {
   font-size: 12px;
 }
-.team_box:after {
-  content: "";
-  border: solid 1px #c33764;
-  position: absolute;
-  bottom: 0;
-  width: 50%;
-  right: 0;
-  -webkit-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
-}
-.team_box:hover:after {
-  -webkit-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
-  -webkit-transform: translateX(-100%);
-          transform: translateX(-100%);
-}
+/*.team_box:after {*/
+/*  content: "";*/
+/*  border: solid 1px #c33764;*/
+/*  position: absolute;*/
+/*  bottom: 0;*/
+/*  width: 50%;*/
+/*  right: 0;*/
+/*  -webkit-transition: all 0.3s ease-in-out;*/
+/*  transition: all 0.3s ease-in-out;*/
+/*}*/
+/*.team_box:hover:after {*/
+/*  -webkit-transition: all 0.3s ease-in-out;*/
+/*  transition: all 0.3s ease-in-out;*/
+/*  -webkit-transform: translateX(-100%);*/
+/*          transform: translateX(-100%);*/
+/*}*/
 .team_box:hover .team_img {
   -webkit-box-shadow: 0 0 42px rgba(0, 0, 0, 0.05);
           box-shadow: 0 0 42px rgba(0, 0, 0, 0.05);
