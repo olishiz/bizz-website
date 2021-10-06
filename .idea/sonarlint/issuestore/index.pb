@@ -28,3 +28,8 @@ P
  events/mqbc-virtual-meeting.html,f\9\f95142dcc510a5782f83a33d180a643ac0f5c5f1
 J
 events/official-visit.html,9\d\9dd8e8ad092f7ae196d7a0a9252b41856354e26b
+:
+
+index.html,f\6\f6013a00b362253c64368d6eebc50ea2131754e2
+J
+assets/animate/animate.css,f\b\fb5a3df58cd24d953c647fa6151bd5fd0e761cde
